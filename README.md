@@ -1,8 +1,6 @@
 # Synthetic Image Detection
 
-Detecting AI-generated images has become a crucial task. This project builds upon the work of [1]:
-
-with the goal of evaluating possible improvements through the **Smash and Reconstruction (S&R)** technique. S&R suppresses semantic information in images and focuses on inter-pixel correlations. For further details, refer to [2].
+Detecting AI-generated images has become a crucial task. This project builds upon the work of [1] with the goal of evaluating possible improvements through the **Smash and Reconstruction (S&R)** technique. S&R suppresses semantic information in images and focuses on inter-pixel correlations. For further details, refer to [2].
 
 ### Project Scope
 This project aims to compare:
