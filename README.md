@@ -5,7 +5,7 @@ Detecting AI-generated images has become a crucial task. This project builds upo
 ### Project Scope
 This project aims to compare:
 - The **Smash and Reconstruction** technique against common approaches.
-- Performance across **CNNs, ResNet, and SuSy** models.
+- Performance across **CNNs, ResNet18, and SuSy** models.
 
 ### Key Idea
 The underlying hypothesis is straightforward: if **CNNs and ResNet** models benefit from **S&R**, then **SuSy** models might also gain performance improvements.
