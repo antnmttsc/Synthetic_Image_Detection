@@ -15,6 +15,9 @@ The underlying hypothesis is straightforward: if **CNNs and ResNet** models bene
 ### Computational Considerations
 A key challenge of this project is computational resources. Thus, results should not be considered absolute. Instead, this project encourages further exploration using a larger dataset, as well as experimenting with different architectures or alternative approaches.
 
+### Reproducing the Experiment
+To replicate the experiment, download the SID_Notebook.ipynb file and the Utils_Funct folder. Since the project was developed on Google Colab, simply upload the notebook and the mentioned folder into the Colab workspace to get started.
+
 ---
 
 ### References
